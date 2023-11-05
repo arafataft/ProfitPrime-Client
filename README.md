@@ -1,4 +1,4 @@
-# React-Test
+# Profit Prime
 [Live Link](https://profit-prime.netlify.app/)
 
 
